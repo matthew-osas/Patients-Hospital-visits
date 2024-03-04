@@ -32,7 +32,7 @@ This dataset presents an opportunity for comprehensive analysis to gain insights
 </head>
 <body>
 
-<h2>Patients Data</h2>
+<h2>Patients Data Sample Data</h2>
 
 <table>
   <tr>
@@ -105,24 +105,12 @@ This dataset presents an opportunity for comprehensive analysis to gain insights
 
 ## <font color = red>**Aims**</font>
 
-It may sound far-fetched to suggest that certain months, days, or hours could be more dangerous. Hence, the aim of this report is to analyse UK accidents data to give insights into the following questions: 
+As an analyst within the healthcare industry, my objective is to derive insightful answers to the following questions using the provided dataset:
  
-* <font color = green>Are there significant hours of the day, and days of the week, on which accidents occur?</font> <br>
-* <font color = green>For motorbikes, are there significant hours of the day, and days of the week, on which 
-accidents occur? </font><br>
-* <font color = green>For pedestrians involved in accidents, are there significant hours of the day, and days of the 
-week, on which they are more likely to be involved?</font> <br>
-* <font color = green>What impact, if any, does daylight savings have on road traffic accidents in the week after it 
-starts and stops? </font><br>
-* <font color = green>What impact, if any, does sunrise and sunset times have on road traffic accidents?</font><br>
-* <font color = green>Are there particular types of vehicles (engine capacity, age of vehicle, etc.) that are more 
-frequently involved in road traffic accidents? </font><br>
-* <font color = green>Are there particular conditions (weather, geographic location, situations) that generate more 
-road traffic accidents? </font><br>
-* <font color = green>How does driver related variables affect the outcome (e.g., age of the driver, and the purpose 
-of the journey)? </font><br>
-* <font color = green>Can we make predictions about when and where accidents will occur, and the severity of the 
-injuries sustained from the data supplied to improve road safety? How well do our models 
-compare to government models? </font><br>
+* <font color = green>What is the distribution of patient demographics within the dataset?</font> <br>
+* <font color = green>What is the average wait time for patients before being seen by a healthcare provider? </font><br>
+* <font color = green>Are there any patterns in department referrals based on patient demographics?</font> <br>
+* <font color = green>Is there a correlation between patient satisfaction scores and wait times? </font><br>
+* <font color = green>Are there any trends or patterns in patient admissions based on time of day or day of the week?</font><br>
 
-Please click on the BigData_&_DataMining.ipynb python note book above to take a look at the detailed analysis.
+
