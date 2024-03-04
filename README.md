@@ -1,5 +1,5 @@
 # Patients-Hospital-visits
-![MasterHead]([https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2018/11/11/1365101-921132596.gif?itok=8bwmmW9h](https://imgvisuals.com/products/animated-patient-flow-illustration)
+![MasterHead](https://imgvisuals.com/products/animated-patient-flow-illustration)
 <h1 align="center">Hi 👋, I'm Matthew Osadebamwen</h1>
 <h3 align="center">A passionate Data Analyst and Data Scientist with crazy interest in Artificial Intelligence</h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/207059/screenshots/16573416/media/4f24405796465a71b2691f94f5e5d1f8.gif"
