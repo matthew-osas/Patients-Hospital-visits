@@ -125,7 +125,6 @@ This dataset presents an opportunity for comprehensive analysis to gain insights
   </tr>
 </table>
 
-You can copy and paste this code into an HTML file or an HTML editor to view the table.
 
 ## <font color = red>**Aims**</font>
 
