@@ -18,12 +18,9 @@
 href="https://www.microsoft.com/en-gb/microsoft-365/excel?ef_id=_k_CjwKCAiA_5WvBhBAEiwAZtCU78BaZH7BzevY2zQVGZOpfOOC2rf2_G0BTCbswPHNVSB2KuyHHY_2wRoCSGgQAvD_BwE_k_&OCID=AIDcmmp20rgnjr_SEM__k_CjwKCAiA_5WvBhBAEiwAZtCU78BaZH7BzevY2zQVGZOpfOOC2rf2_G0BTCbswPHNVSB2KuyHHY_2wRoCSGgQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiA_5WvBhBAEiwAZtCU78BaZH7BzevY2zQVGZOpfOOC2rf2_G0BTCbswPHNVSB2KuyHHY_2wRoCSGgQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/original?v=v2&px=-1" alt="Excel" width="40" height="40"/> </a> <a                                                                     href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://info.railsentinel.co.uk/wp-content/uploads/2023/02/PowerBI-Logo.png" alt="Power BI" width="40" height="40"/> </a> <a 
 href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-osas&show_icons=true&locale=en" alt="matthew-osas" /></p>
 
-
-# UK Traffic Aaccident Aanalysis
-For this analysis we will use the road safety data available from here: http://data.gov.uk/dataset/road-accidents-safety-data
-
+# Patients Hospital visits Analysis
+For this analysis, we'll utilize the publicly accessible hospital patient visits dataset found on the internet
 ## <font color = red>**Introduction**</font>
 The UK government provides detailed road safety data with respect to injuries, road accidents, type of vehicles involved and casualties. Overall, the data is divided into three datasets: Accidents, Vehicles and Casualties. A summary of each of these datasets is presented in Table 1. The ‘accident index’ is provided in each dataset to identify an accident. I initially proposed to merge all three datasets from the start, before performing the analysis but upon realizing this might be more dimensionally challenging to work with, I decided to work with individual datasets and merge them only when needed. It should also be noted lots of the attributes are categorical hence codes are provided to indicate their respective meanings.
 
