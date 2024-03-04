@@ -32,32 +32,100 @@ This dataset presents an opportunity for comprehensive analysis to gain insights
 
 
 **Table 1**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Patients Data</title>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+</head>
+<body>
+
+<h2>Patients Data</h2>
+
 <table>
-  <tr>
-    <th>Datasets</th>
-    <th>Unique Identifier</th>
-    <th>Number of Attributes</th>
-    <th>Number of Rows</th>
-  </tr>
-  <tr>
-    <td>Accidents</td>
-    <td>Accident Index</td>
-    <td>32</td>
-    <td>117536</td>
-  </tr>
-  <tr>
-    <td>Vehicles</td>
-    <td>Vehicle Reference</td>
-    <td>23</td>
-    <td>216381</td>
-  </tr>
-    <tr>
-    <td>Casualties</td>
-    <td>Casualty Reference</td>
-    <td>16</td>
-    <td>153158</td>
-  </tr>
+  <tr>
+    <th>Date</th>
+    <th>Patient ID</th>
+    <th>Patient Gender</th>
+    <th>Patient Age</th>
+    <th>Patient SAT Score</th>
+    <th>Patient First Initial</th>
+    <th>Patient Last Name</th>
+    <th>Patient Race</th>
+    <th>Patient Admin Flag</th>
+    <th>Patient Wait Time</th>
+    <th>Department Referral</th>
+  </tr>
+  <tr>
+    <td>3/20/2020</td>
+    <td>145-39-5406</td>
+    <td>M</td>
+    <td>69</td>
+    <td>10</td>
+    <td>H</td>
+    <td>Glasspool</td>
+    <td>White</td>
+    <td>FALSE</td>
+    <td>39</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>6/15/2020</td>
+    <td>316-34-3057</td>
+    <td>M</td>
+    <td>4</td>
+    <td>-</td>
+    <td>X</td>
+    <td>Methuen</td>
+    <td>Native American/Alaska Native</td>
+    <td>TRUE</td>
+    <td>27</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>6/20/2020</td>
+    <td>897-46-3852</td>
+    <td>F</td>
+    <td>56</td>
+    <td>9</td>
+    <td>P</td>
+    <td>Schubuser</td>
+    <td>African American</td>
+    <td>TRUE</td>
+    <td>55</td>
+    <td>General Practice</td>
+  </tr>
+  <tr>
+    <td>2/4/2020</td>
+    <td>358-31-9711</td>
+    <td>F</td>
+    <td>24</td>
+    <td>8</td>
+    <td>U</td>
+    <td>Titcombe</td>
+    <td>Native American/Alaska Native</td>
+    <td>TRUE</td>
+    <td>31</td>
+    <td>General Practice</td>
+  </tr>
 </table>
+
+You can copy and paste this code into an HTML file or an HTML editor to view the table.
 
 ## <font color = red>**Aims**</font>
 
