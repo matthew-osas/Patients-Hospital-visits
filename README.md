@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-osas&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-osas" /> </p>
 
-- 🔭 I’m currently working on **Analysing Road Traffic Accidents in the UK for the year 2019**
+- 🔭 In this project we're going to be working on **Analysing patients hospital visits**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
