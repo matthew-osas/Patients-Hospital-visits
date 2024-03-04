@@ -23,16 +23,11 @@ href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferre
 # Patients Hospital visits Analysis
 For this analysis, we'll utilize the publicly accessible hospital patient visits dataset found on the internet
 ## <font color = red>**Introduction**</font>
-The dataset under analysis consists of 9216 rows, each representing an individual patient encounter within a medical facility. The dataset encompasses various demographic and clinical attributes associated with each patient visit. Key attributes include the date and time of the visit, unique patient identifiers, demographic details such as gender, age, race, and satisfaction score. Additionally, administrative details such as patient administrative status, wait times, and department referrals are included.
+The dataset under analysis consists of 9216 rows and 11 columns, each representing an individual patient encounter within a medical facility. The dataset encompasses various demographic and clinical attributes associated with each patient visit. Key attributes include the date and time of the visit, unique patient identifiers, demographic details such as gender, age, race, and satisfaction score. Additionally, administrative details such as patient administrative status, wait times, and department referrals are included.
 
 This dataset presents an opportunity for comprehensive analysis to gain insights into patient demographics, clinical trends, administrative processes, and service utilization within the medical facility. By exploring these data points, healthcare professionals and administrators can potentially identify patterns, trends, and areas for improvement in patient care delivery, resource allocation, and operational efficiency. Furthermore, such analysis could inform decision-making processes aimed at enhancing the quality, accessibility, and effectiveness of healthcare services provided within the facility.
 
 
-
-
-
-**Table 1**
-<h2>Patients Data</h2>
 
 <table>
   <tr>
