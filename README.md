@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Data Analyst and Data Scientist with crazy interest in Artificial Intelligence</h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/207059/screenshots/16573416/media/4f24405796465a71b2691f94f5e5d1f8.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-osas&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-osas" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=matthew-osas&label=Profile%20views&color=0e75b6&style=flat](https://imgvisuals.com/cdn/shop/products/animated-patient-flow-illustration-943688.gif?v=1697071141&width=1800)" alt="matthew-osas" /> </p>
 
 - 🔭 In this project we're going to be working on **Analysing patients hospital visits**
 
