@@ -32,29 +32,6 @@ This dataset presents an opportunity for comprehensive analysis to gain insights
 
 
 **Table 1**
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Patients Data</title>
-<style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        text-align: left;
-        padding: 8px;
-    }
-    th {
-        background-color: #f2f2f2;
-    }
-</style>
-</head>
-<body>
-
 <h2>Patients Data</h2>
 
 <table>
