@@ -182,6 +182,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
   <li>Apply appropriate colors and formatting to enhance visual appeal and readability.</li>
   <li>Test the dashboard to ensure that slicers and filters function correctly and that data updates accurately.</li>
 </ul>
+<h3>Report Snapshot (Power BI Desktop):</h2><img width="650" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/5d050df9-6122-4133-a15a-c22608be0793">
 
 </body>
 </html>
