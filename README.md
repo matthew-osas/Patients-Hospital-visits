@@ -195,7 +195,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 </head>
 <body>
 
-<p class="red-text"><strong>Question:</strong> What is the distribution of patient demographics within the dataset?</p>
+<p class="red-text"><strong>Question (B):</strong> What is the distribution of patient demographics within the dataset?</p>
 <p><strong>Answer:</strong> From this data, we can draw some preliminary conclusions about the distribution of patient demographics:</p>
 <ul>
   <li>There were a total of 9216 patients visiting the hospital.</li>
