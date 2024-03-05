@@ -127,7 +127,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 </li>
     <li>Calculate % of visits without administrative staff</li>
     <li>Calculate % of female visits</li>
-    <li>Calculate % of male visits<img width="439" alt="3" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/a5e749ac-d874-428c-bd5d-8df72a9acf57">
+<li>Calculate % of male visits<img width="439" alt="3" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/a5e749ac-d874-428c-bd5d-8df72a9acf57">
 </li>
     <li>Calculate % of visits with unknown gender</li>
     <li>Calculate % of visits with no rating</li>
