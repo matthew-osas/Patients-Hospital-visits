@@ -123,9 +123,10 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <ul>
   <li>DAX Calculations for various metrics:</li>
   <ul>
-    <li>Calculate % of visits by administrative staff</li>![1](https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/c5711e56-1197-4c39-96fd-14b08c93249e)
+    <li>Calculate % of visits by administrative staff</li>
 
-    <li>Calculate % of visits without administrative staff</li>
+    <li>Calculate % of visits without administrative staff</li><img width="439" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/a5128fb9-183a-4919-912f-bd6caed99d83">
+
     <li>Calculate % of female visits</li>
     <li>Calculate % of male visits</li>
     <li>Calculate % of visits with unknown gender</li>
