@@ -188,7 +188,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <h3>Report Snapshot (Power BI Desktop):</h2><img width="800" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/5d050df9-6122-4133-a15a-c22608be0793">
 
 ## <font color = red>**Insights obtained from analysis**</font>
-<title>Hospital Visit Statistics</title>
+<h3>Hospital Visit Statistics</h3>
 </head>
 <body>
 
