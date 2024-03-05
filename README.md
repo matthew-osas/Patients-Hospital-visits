@@ -204,12 +204,13 @@ As an analyst within the healthcare industry, my objective is to derive insightf
   <li>Referred patients account for approximately 41.41% of the total visits, while unreferred patients account for approximately 58.59%.</li>
   <li>The facility receives 7106 visits from adult patients, followed by children with 719 visits, teenagers with 697 visits, and the least visits are from infants with 226 visits.</li>
 </ul>
-</body>
-
 <h5>Average wait time</h5>
-<body>
-
-<h2>Question (B): What is the average wait time for patients before being seen by a healthcare provider?</h2>
+<h5>Question (B): What is the average wait time for patients before being seen by a healthcare provider?</h5>
 <p><strong>Answer:</strong> Based on the race and age group matrix distribution, it can be inferred that the average wait time is heavily influenced by the severity of the patient's condition. For example, there appears to be less wait time for patients suffering from cardio-related conditions compared to patients with general conditions.</p>
 
+
 </body>
+
+
+
+
