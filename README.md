@@ -185,13 +185,13 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 </body>
 </html>
 
-<h3>Report Snapshot (Power BI Desktop):</h2><img width="800" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/5d050df9-6122-4133-a15a-c22608be0793">
+<h3>Report Snapshot (Power BI Desktop):</h3><img width="800" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/5d050df9-6122-4133-a15a-c22608be0793">
 
 ## <font color = red>**Insights obtained from analysis**</font>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Distribution of Patient Demographics</title>
+<h4>Distribution of Patient Demographics</h4>
 <style>
   .red-text {
     color: red;
