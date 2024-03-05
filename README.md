@@ -191,7 +191,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h4>Distribution of Patient Demographics</h4>
+
 </head>
 <body>
 
@@ -203,14 +203,11 @@ As an analyst within the healthcare industry, my objective is to derive insightf
   <li>More visits occurred on weekdays (6574) compared to weekends (2642), indicating that the hospital receives a higher number of patients on weekdays.</li>
   <li>Referred patients account for approximately 41.41% of the total visits, while unreferred patients account for approximately 58.59%.</li>
   <li>The facility receives 7106 visits from adult patients, followed by children with 719 visits, teenagers with 697 visits, and the least visits are from infants with 226 visits.</li>
-</ul>
-</body>
 
-<h5>Average wait time</h5>
-</head>
-<body>
 <p class="red-text"><strong>Question (B):</strong> What is the average wait time for patients before being seen by a healthcare provider?</p>
 <p><strong>Answer:</strong> Based on the race and age group matrix distribution, it can be inferred that the average wait time is heavily influenced by the severity of the patient's condition. For example, there appears to be less wait time for patients suffering from cardio-related conditions compared to patients with general conditions.</p>
+
+</ul>
 </body>
 
 
