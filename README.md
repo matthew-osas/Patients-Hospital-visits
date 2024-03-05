@@ -123,8 +123,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <ul>
   <li>DAX Calculations for various metrics:</li>
   <ul>
-    <li>Calculate % of visits by administrative staff</li><img width="439" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/e0d9f571-b127-42b2-a2fc-f2c2e940c537"><li>
-
+    <li>Calculate % of visits by administrative staff</li>
     <li>Calculate % of visits without administrative staff</li>
     <li>Calculate % of female visits</li>
     <li>Calculate % of male visits</li>
@@ -137,6 +136,9 @@ As an analyst within the healthcare industry, my objective is to derive insightf
     <li>Set up conditional formatting for maximum points by month and year</li>
     <li>Create a matrix caption for visits by race</li>
     <li>Determine total number of patients</li>
+    <li><img width="439" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/669e4484-12f2-4327-9fed-1099f260e799">
+</li>
+    <li><img src="image2.png" alt="Image 2"></li>
   </ul>
 </ul>
 
