@@ -113,8 +113,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 * <font color = green>Is there a correlation between patient satisfaction scores and wait times? </font><br>
 * <font color = green>Are there any trends or patterns in patient admissions based on time of day or day of the week?</font><br>
 
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -126,7 +125,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 
 <h2>Data Section:</h2>
 <ul>
-  <li>Create DAX Calculations for various metrics:</li>
+  <li>DAX Calculations for various metrics:</li>
   <ul>
     <li>Calculate % of visits by administrative staff</li>
     <li>Calculate % of visits without administrative staff</li>
