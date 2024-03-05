@@ -127,16 +127,18 @@ As an analyst within the healthcare industry, my objective is to derive insightf
     <li>Calculate % of visits without administrative staff</li>
     <li>Calculate % of female visits</li>
     <li>Calculate % of male visits</li>
-    <li>Calculate % of visits with unknown gender<img width="439" alt="2" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/f4f6f2a8-9304-4ae1-92b6-8a2e382eb666">
+    <li>Calculate % of visits with unknown gender<img width="500" alt="2" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/f4f6f2a8-9304-4ae1-92b6-8a2e382eb666">
 </li>
     <li>Calculate % of visits with no rating</li>
     <li>Calculate % of referred patients</li>
     <li>Calculate % of unreferred patients</li>
-    <li>Calculate average satisfaction score</li>
+    <li>Calculate average satisfaction score<img width="500" alt="3" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/df1fc3ac-87d4-4ce7-ba26-f4638e737db0">
+</li>
     <li>Calculate average waiting time</li>
     <li>Set up conditional formatting for maximum points by month and year</li>
     <li>Create a matrix caption for visits by race</li>
-    <li>Determine total number of patients</li>
+    <li>Determine total number of patients<img width="500" alt="4" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/755ca51e-aec5-4c7a-b2bf-69050a9f1168">
+</li>
   </ul>
 </ul>
 
