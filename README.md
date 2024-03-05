@@ -202,6 +202,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
   <li>The number of visits during the day (AM) was slightly higher than at night (PM), with 4632 visits during the day and 4584 visits at night.</li>
   <li>More visits occurred on weekdays (6574) compared to weekends (2642), indicating that the hospital receives a higher number of patients on weekdays.</li>
   <li>Referred patients account for approximately 41.41% of the total visits, while unreferred patients account for approximately 58.59%.</li>
+  <li>The facility receives 7106 visits from adult patients, followed by children with 719 visits, teenagers with 697 visits, and the least visits are from infants with 226 visits.</li>
 </ul>
 
 </body>
