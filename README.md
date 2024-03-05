@@ -114,9 +114,6 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 * <font color = green>Are there any trends or patterns in patient admissions based on time of day or day of the week?</font><br>
 
 
-<head>
-
-<title>Hospital Visit Dashboard Preparation Steps</title>
 </head>
 <body>
 
