@@ -188,17 +188,25 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <h3>Report Snapshot (Power BI Desktop):</h2><img width="800" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/5d050df9-6122-4133-a15a-c22608be0793">
 
 ## <font color = red>**Insights obtained from analysis**</font>
-<h3>Hospital Visit Statistics</h3>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Distribution of Patient Demographics</title>
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
 </head>
 <body>
 
-<p><strong>Total Number of Patients Visiting Hospital:</strong> 9216</p>
-<p>Number of visits in the day (AM): 4632</p>
-<p>Number of visits in the night (PM): 4584</p>
-<p>Number of visits at weekdays: 6574</p>
-<p>Number of visits at weekend: 2642</p>
-<p>% Referred patients: 41.41%</p>
-<p>% Unreferred patients: 58.59%</p>
+<p class="red-text"><strong>Question:</strong> What is the distribution of patient demographics within the dataset?</p>
+<p><strong>Answer:</strong> From this data, we can draw some preliminary conclusions about the distribution of patient demographics:</p>
+<ul>
+  <li>There were a total of 9216 patients visiting the hospital.</li>
+  <li>The number of visits during the day (AM) was slightly higher than at night (PM), with 4632 visits during the day and 4584 visits at night.</li>
+  <li>More visits occurred on weekdays (6574) compared to weekends (2642), indicating that the hospital receives a higher number of patients on weekdays.</li>
+  <li>Referred patients account for approximately 41.41% of the total visits, while unreferred patients account for approximately 58.59%.</li>
+</ul>
 
 </body>
-</html>
