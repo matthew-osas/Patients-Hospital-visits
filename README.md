@@ -208,6 +208,9 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <p class="red-text"><strong>Question (B):</strong> What is the average wait time for patients before being seen by a healthcare provider?</p>
 <p><strong>Answer:</strong> Based on the race and age group matrix distribution, it can be inferred that the average wait time is heavily influenced by the severity of the patient's condition. For example, there appears to be less wait time for patients suffering from cardio-related conditions compared to patients with general conditions.</p>
 
+<p class="red-text"><strong>Question (C):</strong> Are there any patterns in department referrals based on patient demographics?</p>
+<p><strong>Answer:</strong> Based on the bar chart, it can be deduced that the hospital receives a higher number of unreferred patients, followed by patients referred to the general practice department, then orthopedics. The renal department has the least number of hospital visits. This trend appears to be consistent regardless of patients' age, gender, or hospital status (whether they are hospital staff or not).</p>
+
 </ul>
 </body>
 
