@@ -125,9 +125,10 @@ As an analyst within the healthcare industry, my objective is to derive insightf
   <ul>
     <li> Calculate % of visits by administrative staff<img width="500" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/962c9b84-05db-479c-b754-2b3724182b9e"></li>
     <li>Calculate % of visits without administrative staff</li>
-    <li>Calculate % of female visits<img width="443" alt="2" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/6001af03-83ae-48c5-9a34-9339306eb171"></li>
+    <li>Calculate % of female visits</li>
     <li>Calculate % of male visits</li>
-    <li>Calculate % of visits with unknown gender</li>
+    <li>Calculate % of visits with unknown gender<img width="439" alt="2" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/f4f6f2a8-9304-4ae1-92b6-8a2e382eb666">
+</li>
     <li>Calculate % of visits with no rating</li>
     <li>Calculate % of referred patients</li>
     <li>Calculate % of unreferred patients</li>
