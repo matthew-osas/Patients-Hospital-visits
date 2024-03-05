@@ -123,14 +123,13 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <ul>
   <li>DAX Calculations for various metrics:</li>
   <ul>
-    <li>Calculate % of visits by administrative staff</li>
-    <li>Calculate % of visits without administrative staff</li>
-    <li>Calculate % of female visits</li><img width="271" alt="2" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/783983af-6e47-45d4-b84b-7199d22c453d"> </li>
+    <li>Calculate % of visits by administrative staff</li>![1](https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/c5711e56-1197-4c39-96fd-14b08c93249e)
 
+    <li>Calculate % of visits without administrative staff</li>
+    <li>Calculate % of female visits</li>
     <li>Calculate % of male visits</li>
     <li>Calculate % of visits with unknown gender</li>
-    <li>Calculate % of visits with no rating</li><img width="288" alt="3" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/1c0d948d-2f33-49bc-a858-ee0b50b05fdc"> </li>
-
+    <li>Calculate % of visits with no rating</li>
     <li>Calculate % of referred patients</li>
     <li>Calculate % of unreferred patients</li>
     <li>Calculate average satisfaction score</li>
