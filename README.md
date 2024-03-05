@@ -117,28 +117,29 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 </head>
 <body>
 
-<h1>To prepare and clean the patient's hospital visit dashboard, the following steps were followed:</h1>
+<h2>To prepare and clean the patient's hospital visit dashboard, the following steps were followed:</h2>
 
 <h2>Data Section:</h2>
 <ul>
   <li>DAX Calculations for various metrics:</li>
   <ul>
-    <li> Calculate % of visits by administrative staff<img width="500" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/962c9b84-05db-479c-b754-2b3724182b9e"></li>
-    <li>Calculate % of visits without administrative staff</li>
-    <li>Calculate % of female visits</li>
-    <li>Calculate % of male visits</li>
-    <li>Calculate % of visits with unknown gender<img width="500" alt="2" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/f4f6f2a8-9304-4ae1-92b6-8a2e382eb666">
-</li>
-    <li>Calculate % of visits with no rating</li>
-    <li>Calculate % of referred patients</li>
-    <li>Calculate % of unreferred patients</li>
-    <li>Calculate average satisfaction score<img width="500" alt="3" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/df1fc3ac-87d4-4ce7-ba26-f4638e737db0">
-</li>
-    <li>Calculate average waiting time</li>
-    <li>Set up conditional formatting for maximum points by month and year</li>
-    <li>Create a matrix caption for visits by race</li>
-    <li>Determine total number of patients<img width="500" alt="4" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/755ca51e-aec5-4c7a-b2bf-69050a9f1168">
-</li>
+    <li> Calculate % of visits by administrative staff</li><img width="500" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/962c9b84-05db-479c-b754-2b3724182b9e">
+<li>Calculate % of visits without administrative staff</li>
+<li>Calculate % of female visits</li>
+<li>Calculate % of male visits</li>
+<li>Calculate % of visits with unknown gender</li>
+<img width="500" alt="2" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/f4f6f2a8-9304-4ae1-92b6-8a2e382eb666">
+<li>Calculate % of visits with no rating</li>
+<li>Calculate % of referred patients</li>
+<li>Calculate % of unreferred patients</li>
+<li>Calculate average satisfaction score</li>
+<img width="500" alt="3" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/df1fc3ac-87d4-4ce7-ba26-f4638e737db0">
+<li>Calculate average waiting time</li>
+<li>Set up conditional formatting for maximum points by month and year</li>
+<li>Create a matrix caption for visits by race</li>
+<li>Determine total number of patients</li>
+<img width="500" alt="4" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/755ca51e-aec5-4c7a-b2bf-69050a9f1168">
+
   </ul>
 </ul>
 
@@ -150,7 +151,8 @@ As an analyst within the healthcare industry, my objective is to derive insightf
     <li>Determine month</li>
     <li>Assign a number to each month</li>
     <li>Identify the day of the week</li>
-    <li>Categorize weeks as "Weekend" or "Weekday"<img width="500" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/0eaa8c75-6fea-4b5e-871f-9a3b461de9f9"></li>
+    <li>Categorize weeks as "Weekend" or "Weekday"</li>
+    <img width="500" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/0eaa8c75-6fea-4b5e-871f-9a3b461de9f9">
     <li>Determine the year</li>
   </ul>
 </ul>
@@ -185,7 +187,10 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 </body>
 </html>
 
-<h3>Report Snapshot (Power BI Desktop):</h3><a href="https://app.powerbi.com/view?r=eyJrIjoiNjRlNmMwZjktM2MxMC00OWE1LThmMDItYmUyYTFhNzQ4Yjc2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Report For Patients Hospital visits</a><p></p><p></p><img width="800" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/5d050df9-6122-4133-a15a-c22608be0793">
+<h3>Report Snapshot (Power BI Desktop):</h3><a href="https://app.powerbi.com/view?r=eyJrIjoiNjRlNmMwZjktM2MxMC00OWE1LThmMDItYmUyYTFhNzQ4Yjc2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Report For Patients Hospital visits</a>
+<p></p>
+<p></p>
+<img width="800" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/5d050df9-6122-4133-a15a-c22608be0793">
 
 ## <font color = red>**Insights obtained from analysis**</font>
 <head>
