@@ -185,7 +185,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 </body>
 </html>
 
-<h3>Report Snapshot (Power BI Desktop):</h3><img width="800" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/5d050df9-6122-4133-a15a-c22608be0793">
+<h3>Report Snapshot (Power BI Desktop):https://app.powerbi.com/groups/3961bb16-951b-4611-ad81-ffab655e25eb/reports/f369d114-1bbd-4268-bcaf-b3ce08661cff/ReportSection?experience=power-bi</h3><img width="800" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/5d050df9-6122-4133-a15a-c22608be0793">
 
 ## <font color = red>**Insights obtained from analysis**</font>
 <head>
