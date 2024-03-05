@@ -214,8 +214,8 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <p class="red-text"><strong>Question (D):</strong> Are there any patterns in department referrals based on patient demographics?</p>
 <p><strong>Answer:</strong> The analysis reveals that more than 75% of the patients visiting the hospital do not provide any rating for the services they received. Therefore, it is challenging to accurately investigate whether there is a correlation between average satisfaction time and average wait time.</p>
 
-<p class="red-text"><strong>Question (E):</strong>  </p>
-<p><strong>Answer:</strong>  </p>
+<p class="red-text"><strong>Question (E):</strong> Are there any trends or patterns in patient admissions based on time of day or day of the week? </p>
+<p><strong>Answer:</strong> The hospital receives more visits during the weekdays, with 6574 visits compared to 2642 visits on weekends. Of the weekend visits, 48.7% are male, 51.1% are female, and 0.3% are of unknown gender. This trend appears to be consistent regardless of age class (adult, teenage, child, young child, and infant), age group (0-10, 11-20, 20-30,...), and time of day (AM or PM). </p>
 </ul>
 </body>
 
