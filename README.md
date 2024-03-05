@@ -23,7 +23,7 @@ href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferre
 # Patients Hospital visits Analysis
 For this analysis, we'll utilize the publicly accessible hospital patient visits dataset found on the internet
 ## <font color = red>**Introduction**</font>
-The dataset under analysis consists of 9216 rows and 11 columns, each representing an individual patient encounter within a medical facility. The dataset encompasses various demographic and clinical attributes associated with each patient visit. Key attributes include the date and time of the visit, unique patient identifiers, demographic details such as gender, age, race, and satisfaction score. Additionally, administrative details such as patient administrative status, wait times, and department referrals are included.
+The dataset under analysis consists of 9216 rows and 11 columns, each representing an individual patient encounter within a medical facility for the year 2019 and 2020. The dataset encompasses various demographic and clinical attributes associated with each patient hospital visit. Key attributes include the date and time of the visit, unique patient identifiers, demographic details such as gender, age, race, and satisfaction score. Additionally, administrative details such as patient administrative status, wait times, and department referrals are included.
 
 This dataset presents an opportunity for comprehensive analysis to gain insights into patient demographics, clinical trends, administrative processes, and service utilization within the medical facility. By exploring these data points, healthcare professionals and administrators can potentially identify patterns, trends, and areas for improvement in patient care delivery, resource allocation, and operational efficiency. Furthermore, such analysis could inform decision-making processes aimed at enhancing the quality, accessibility, and effectiveness of healthcare services provided within the facility.
 
@@ -113,4 +113,76 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 * <font color = green>Is there a correlation between patient satisfaction scores and wait times? </font><br>
 * <font color = green>Are there any trends or patterns in patient admissions based on time of day or day of the week?</font><br>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hospital Visit Dashboard Preparation Steps</title>
+</head>
+<body>
 
+<h1>To prepare the patient's hospital visit dashboard, the following steps were followed:</h1>
+
+<h2>Data Section:</h2>
+<ul>
+  <li>Create DAX Calculations for various metrics:</li>
+  <ul>
+    <li>Calculate % of visits by administrative staff</li>
+    <li>Calculate % of visits without administrative staff</li>
+    <li>Calculate % of female visits</li>
+    <li>Calculate % of male visits</li>
+    <li>Calculate % of visits with unknown gender</li>
+    <li>Calculate % of visits with no rating</li>
+    <li>Calculate % of referred patients</li>
+    <li>Calculate % of unreferred patients</li>
+    <li>Calculate average satisfaction score</li>
+    <li>Calculate average waiting time</li>
+    <li>Set up conditional formatting for maximum points by month and year</li>
+    <li>Create a matrix caption for visits by race</li>
+    <li>Determine total number of patients</li>
+  </ul>
+</ul>
+
+<h2>Date Section:</h2>
+<ul>
+  <li>Create measures for date-related information:</li>
+  <ul>
+    <li>Define date</li>
+    <li>Determine month</li>
+    <li>Assign a number to each month</li>
+    <li>Identify the day of the week</li>
+    <li>Categorize weeks as "Weekend" or "Weekday"</li>
+    <li>Determine the year</li>
+  </ul>
+</ul>
+
+<h2>Parameter Section:</h2>
+<ul>
+  <li>Set up a slicer to interact with the table:</li>
+  <ul>
+    <li>Enable filtering by average satisfaction score</li>
+    <li>Enable filtering by average waiting time</li>
+  </ul>
+</ul>
+
+<h2>Dataset:</h2>
+<ul>
+  <li>Add additional columns for better analysis:</li>
+  <ul>
+    <li>Determine if the visit occurred in the morning or afternoon (Time of Day)</li>
+    <li>Group patients into age categories (e.g., Infant, Young Child, Child, Teenager, Adult)</li>
+    <li>Merge columns to create a unified name column for patient identification</li>
+  </ul>
+</ul>
+
+<h2>Visualization Section:</h2>
+<ul>
+  <li>Utilize various Power BI visualizations (e.g., bar charts, line graphs, matrices) to present the data effectively.</li>
+  <li>Design a dashboard layout that includes all relevant metrics and allows for easy interpretation.</li>
+  <li>Apply appropriate colors and formatting to enhance visual appeal and readability.</li>
+  <li>Test the dashboard to ensure that slicers and filters function correctly and that data updates accurately.</li>
+</ul>
+
+</body>
+</html>
