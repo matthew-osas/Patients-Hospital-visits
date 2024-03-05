@@ -32,7 +32,7 @@ This dataset presents an opportunity for comprehensive analysis to gain insights
 </head>
 <body>
 
-<h2>Patients Data Sample Data</h2>
+<h2>Patients Sample Dataset</h2>
 
 <table>
   <tr>
