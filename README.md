@@ -192,11 +192,6 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h4>Distribution of Patient Demographics</h4>
-<style>
-  .red-text {
-    color: red;
-  }
-</style>
 </head>
 <body>
 
