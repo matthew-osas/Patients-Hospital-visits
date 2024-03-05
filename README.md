@@ -136,11 +136,9 @@ As an analyst within the healthcare industry, my objective is to derive insightf
     <li>Set up conditional formatting for maximum points by month and year</li>
     <li>Create a matrix caption for visits by race</li>
     <li>Determine total number of patients</li>
-    <li>
-    </li>
-    <li><img width="443" alt="2" src="https://github.com/matthew-osas/Patients-Hospital- 
-     visits/assets/102475461/0e82cdc6-31a2-47e2-a08e-6ed4fac99fb3">
-    </li>
+    <li><img width="439" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/d2d876e6-ef80-4c59-8a86-15e34da250bf">
+ </li>
+    <li> </li>
   </ul>
 </ul>
 
