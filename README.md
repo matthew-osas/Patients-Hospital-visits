@@ -146,12 +146,11 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 <ul>
   <li>Create measures for date-related information:</li>
   <ul>
-    <li>Define date<img width="490" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/0eaa8c75-6fea-4b5e-871f-9a3b461de9f9">
-</li>
+    <li>Define date</li>
     <li>Determine month</li>
     <li>Assign a number to each month</li>
     <li>Identify the day of the week</li>
-    <li>Categorize weeks as "Weekend" or "Weekday"</li>
+    <li>Categorize weeks as "Weekend" or "Weekday"<img width="500" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/0eaa8c75-6fea-4b5e-871f-9a3b461de9f9"></li>
     <li>Determine the year</li>
   </ul>
 </ul>
@@ -170,7 +169,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
   <li>Add additional columns for better analysis:</li>
   <ul>
     <li>Determine if the visit occurred in the morning or afternoon (Time of Day)</li>
-    <li>Group patients into age categories (e.g., Infant, Young Child, Child, Teenager, Adult)<img width="435" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/fae0cdf3-9d48-4b42-af5f-835cd2b794e4">
+    <li>Group patients into age categories (e.g., Infant, Young Child, Child, Teenager, Adult)<img width="500" alt="1" src="https://github.com/matthew-osas/Patients-Hospital-visits/assets/102475461/fae0cdf3-9d48-4b42-af5f-835cd2b794e4">
 </li>
     <li>Merge columns to create a unified name column for patient identification</li>
   </ul>
