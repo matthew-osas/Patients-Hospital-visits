@@ -115,8 +115,7 @@ As an analyst within the healthcare industry, my objective is to derive insightf
 
 
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Hospital Visit Dashboard Preparation Steps</title>
 </head>
 <body>
